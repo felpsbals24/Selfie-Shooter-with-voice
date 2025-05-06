@@ -1,1 +1,14 @@
-style.css
+body
+{
+ background-color: rgb(132, 199, 45);
+}
+.container
+{
+text-align: center;
+
+}
+#logo_img
+{
+    width: 60px;
+    border-radius: 1000px;
+}
